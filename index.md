@@ -19,6 +19,7 @@ Feel Free to explore and have fun !
 
 ## Blogs
 `something about my writings on deep learning`
+link to my [blogs](/blogs.md).
 
 ## CV 
 `something about cv\resume`
