@@ -22,6 +22,15 @@ Feel Free to explore and have fun !
 
 ## CV 
 `something about cv\resume`
+A short code that i recently wrote.
+``` ruby
+---
+int a = 2;
+int b = 4;
+int c = a+b;
+std::cout<<c<<endl;
+---
+```
 
 # Contacts
 `something about contact details`
