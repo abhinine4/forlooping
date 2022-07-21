@@ -10,7 +10,8 @@ Feel Free to explore and have fun !
 
 ## About me
 `something about me`
-![Image](/forlooping/images/gitprofile.jpeg).
+
+<img src="/images/gitprofile.jpeg" alt="isolated" width="400"/>.
 
 ## Research
 `something about my research`
