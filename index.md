@@ -19,7 +19,7 @@ Feel Free to explore and have fun !
 
 ## Blogs
 `something about my writings on deep learning`
-link to my [blogs](/blogs.html).
+link to my [blogs](/abhinine4/forlooping/blogs.md).
 
 ## CV 
 `something about cv\resume`
